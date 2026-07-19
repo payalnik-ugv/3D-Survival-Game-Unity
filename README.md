@@ -5,13 +5,12 @@
 
 ### Требования к среде разработки:
 
- Go to [Unity's download page](https://store.unity.com/download) and click “Download Installer for Windows”.<br>
- Install UnityHub.<br>
- With UnityHub opened click **ADD**<br>
- Select the project directory<br>
- Wait unity setup your project <br>
- This project also uses URP. <br>
- You need to add Universal RP in unity package manager.
+- **Unity Engine**: [2022.3 (LTS)](https://docs.unity3d.com/2022.3/Documentation/Manual)
+- **Microsoft Visual Studio**: 2022 (_Community_)
+- Lmhpoly assets (набор низкополигональных моделей): [Low Poly Pack](https://www.lmhpoly.com/unity-game-assets)
+- N-Hance assets: [Животные](https://assetstore.unity.com/packages/3d/characters/animals/stylized-wild-animals-pack-159154)
+- Ресурсы Кенни: [Набор для выживания](https://www.kenney.nl/assets/survival-kit), [Анимированные персонажи](https://www.kenney.nl/assets/animated-characters)
+- Звуковые эффекты: [Zapsplat](https://www.zapsplat.com/?s=bear+&post_type=music&sound-effect-category-id=), [OpenGameArt](https://opengameart.org)
 
 ### Элементы управления:
  Перемещение: клавиши W, A, S, D или стрелки. <br>
@@ -24,11 +23,11 @@
 
 ![Gif](Screenshots/Gifs/inventory-and-pickup.gif)
 	
-#### Собирая лес:
+#### Собрать лес:
 	
 ![Gif](Screenshots/Gifs/gathering-woods.gif)
 	
-#### Камни для сбора:
+#### Собрать камни:
 	
 ![Gif](Screenshots/Gifs/gathering-stones.gif)
 	
@@ -36,7 +35,7 @@
 	
 ![Gif](Screenshots/Gifs/crafting.gif)
 	
-#### Строительная система:
+#### Система стройки:
 
 ![Gif](Screenshots/Gifs/building-and-sleep.gif)
 	
@@ -44,15 +43,6 @@
 
 ![Gif](Screenshots/Gifs/attacking.gif)
 	
-#### Эффект подводного воздействия:
+#### Подводный эффект:
 
 ![Gif](Screenshots/Gifs/underwater-effect.gif)
-
-
-Ресурсы Кенни: [Набор для выживания](https://www.kenney.nl/assets/survival-kit), [Анимированные персонажи](https://www.kenney.nl/assets/animated-characters)
-
-Lmhpoly assets (набор низкополигональных моделей): [Low Poly Pack](https://www.lmhpoly.com/unity-game-assets)
-
-N-Hance assets: [Животные](https://assetstore.unity.com/packages/3d/characters/animals/stylized-wild-animals-pack-159154)
-
-Звуковые эффекты: [Zapsplat](https://www.zapsplat.com/?s=bear+&post_type=music&sound-effect-category-id=), [OpenGameArt](https://opengameart.org)
