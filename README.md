@@ -3,19 +3,7 @@
 
 ![Главное меню](Screenshots/Images/main_menu.jpg)
 
-<br>
-
-The project is using the following version of Unity: [Unity 2020.3.35f1](https://unity3d.com/get-unity/download/archive). <br> 
-Get the build version for windows_x64 from this [link](https://github.com/sevketbinali/3D-Survival-Game-Unity/releases/tag/alpha-v1.0). <br>
-You can find more details [here](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Documentation.pdf). 
-
-
-
-### Setup project in Unity :
-`git clone https://www.github.com/sevketbinali/3D-Survival-Game-Unity.git` <br>
-Open the cloned repository in unity.
-
-### Requirements for Windows :
+### Требования к среде разработки:
 
  Go to [Unity's download page](https://store.unity.com/download) and click “Download Installer for Windows”.<br>
  Install UnityHub.<br>
@@ -25,57 +13,46 @@ Open the cloned repository in unity.
  This project also uses URP. <br>
  You need to add Universal RP in unity package manager.
 
-### Controls :
- Move  :&nbsp;&nbsp; W, A, S, D or arrow keys. <br>
- Jump :&nbsp;&nbsp; Space button. <br> 
- Open/Close Inventory:&nbsp;&nbsp; "TAB". <br>
- Interact:&nbsp;&nbsp; "E". <br>
- Attack or Gather:&nbsp;&nbsp; Left Mouse Click button.
+### Элементы управления:
+ Перемещение: клавиши W, A, S, D или стрелки. <br>
+ Прыжок: пробел. <br> 
+ Открытие/закрытие инвентаря: клавиша "TAB". <br>
+ Взаимодействие: клавиша "E". <br>
+ Атака или сбор: левая кнопка мыши.
 	
-### Gameplays :
+#### Система учета запасов:	
+
+![Gif](Screenshots/Gifs/inventory-and-pickup.gif)
 	
-#### Inventory System :	
-
-![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/inventory-and-pickup.gif)
+#### Собирая лес:
 	
-#### Gathering Woods : 
+![Gif](Screenshots/Gifs/gathering-woods.gif)
 	
-![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/gathering-woods.gif)
+#### Камни для сбора:
 	
-#### Gathering Stones : 
+![Gif](Screenshots/Gifs/gathering-stones.gif)
 	
-![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/gathering-stones.gif)
+#### Система крафта:
 	
-#### Crafting System : 
+![Gif](Screenshots/Gifs/crafting.gif)
 	
-![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/crafting.gif)
+#### Строительная система:
+
+![Gif](Screenshots/Gifs/building-and-sleep.gif)
 	
-#### Building System :
+#### Система атаки:
 
-![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/building-and-sleep.gif)
+![Gif](Screenshots/Gifs/attacking.gif)
 	
-#### Attacking System : 
+#### Эффект подводного воздействия:
 
-![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/attacking.gif)
-	
-#### Underwater Effect : 
-
-![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/underwater-effect.gif)
+![Gif](Screenshots/Gifs/underwater-effect.gif)
 
 
-### Credits : 
+Ресурсы Кенни: [Набор для выживания](https://www.kenney.nl/assets/survival-kit), [Анимированные персонажи](https://www.kenney.nl/assets/animated-characters)
 
-Created by Şevket Binali - sevketbinali@gmail.com
+Lmhpoly assets (набор низкополигональных моделей): [Low Poly Pack](https://www.lmhpoly.com/unity-game-assets)
 
-Kenney assets : [Survival Kit](https://www.kenney.nl/assets/survival-kit) &nbsp; [Animated Characters](https://www.kenney.nl/assets/animated-characters)
+N-Hance assets: [Животные](https://assetstore.unity.com/packages/3d/characters/animals/stylized-wild-animals-pack-159154)
 
-Lmhpoly assets : [Low Poly Pack](https://www.lmhpoly.com/unity-game-assets)
-
-N-hance assets : [Animals](https://assetstore.unity.com/packages/3d/characters/animals/stylized-wild-animals-pack-159154)
-
-SFX : [Zapsplat](https://www.zapsplat.com/?s=bear+&post_type=music&sound-effect-category-id=) &nbsp; [OpenGameArt](https://opengameart.org)
-
-<a href="https://github.com/sevketbinali/3D-Survival-Game-Unity/stargazers">
-     <img alt="Last commit" src="https://img.shields.io/github/stars/sevketbinali/3D-Survival-Game-Unity?style=plastic">
-	
-
+Звуковые эффекты: [Zapsplat](https://www.zapsplat.com/?s=bear+&post_type=music&sound-effect-category-id=), [OpenGameArt](https://opengameart.org)
