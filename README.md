@@ -12,7 +12,7 @@
   - Lmhpoly assets: [Low Poly Pack](https://www.lmhpoly.com/unity-game-assets)
 - Звуковые эффекты: [Zapsplat](https://www.zapsplat.com/?s=bear+&post_type=music&sound-effect-category-id=), [OpenGameArt](https://opengameart.org)
 
-#### ПРОГРЕСС ИГРЫ
+#### Процес игры
 
 Наш персонаж просыпается в лесу.
 Не зная, где и в какое время он находится и отправляется исследовать окрестности.
@@ -33,7 +33,8 @@
  Атака или сбор: левая кнопка мыши.
 
 #### Главное меню
-![JPG](Screenshots/Images/main_menu.jpg)
+
+![Jpg](Screenshots/Images/main_menu.jpg)
 
 #### Система учета запасов:	
 
