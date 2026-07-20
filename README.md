@@ -34,35 +34,32 @@
 
 #### Главное меню
 
-<p align="center">
-<img align="center" alt="PNG" src="https://github.com/payalnik-ugv/3D-Survival-Game-Unity/blob/main/Screenshots/Images/main_menu.jpg?raw=true" />
-</p>
+![Jpg](Screenshots/Images/main_menu.jpg)
 
 #### Система учета запасов:	
 
-![Gif](https://github.com/payalnik-ugv/3D-Survival-Game-Unity/blob/main/Screenshots/Gifs/inventory-and-pickup.gif)
-
+![Gif](Screenshots/Gifs/inventory-and-pickup.gif)
 
 #### Собрать лес:
 
-![Gif](https://github.com/payalnik-ugv/3D-Survival-Game-Unity/blob/main/Screenshots/Gifs/gathering-woods.gif)
+![Gif](Screenshots/Gifs/gathering-woods.gif)
 
 #### Собрать камни:
 
-![Gif](https://github.com/payalnik-ugv/3D-Survival-Game-Unity/blob/main/Screenshots/Gifs/gathering-stones.gif)
+![Gif](Screenshots/Gifs/gathering-stones.gif)
 
 #### Система крафта:
 
-![Gif](https://github.com/payalnik-ugv/3D-Survival-Game-Unity/blob/main/Screenshots/Gifs/crafting.gif)
+![Gif](Screenshots/Gifs/crafting.gif)
 
 #### Система стройки:
 
-![Gif](https://github.com/payalnik-ugv/3D-Survival-Game-Unity/blob/main/Screenshots/Gifs/building-and-sleep.gif)
+![Gif](Screenshots/Gifs/building-and-sleep.gif)
 
 #### Система атаки:
 
-![Gif](https://github.com/payalnik-ugv/3D-Survival-Game-Unity/blob/main/Screenshots/Gifs/attacking.gif)
+![Gif](Screenshots/Gifs/attacking.gif)
 
 #### Подводный эффект:
 
-![Gif](https://github.com/payalnik-ugv/3D-Survival-Game-Unity/blob/main/Screenshots/Gifs/underwater-effect.gif)
+![Gif](Screenshots/Gifs/underwater-effect.gif)
