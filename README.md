@@ -34,9 +34,7 @@
 
 #### Главное меню
 
-<p align="center">
-<img align="center" alt="Jpg" src="https://github.com/payalnik-ugv/3D-Survival-Game-Unity/blob/master/Screenshots/Images/main_menu.jpg?raw=true" />
-</p>
+![Jpg](Screenshots/Images/main_menu.jpg)
 
 #### Система учета запасов:	
 
