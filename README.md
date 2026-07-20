@@ -2,7 +2,17 @@
 Это 3D-игра на выживание с открытым миром, созданная на движке Unity с видом от первого лица в стиле Low Poly.
 Имеет в себе механики из игр в стиле Survival.
 
-### ПРОГРЕСС ИГРЫ
+### Требования к среде разработки:
+
+- **Unity Engine**: [2022.3 (LTS)](https://docs.unity3d.com/2022.3/Documentation/Manual)
+- **Microsoft Visual Studio**: 2022 (_Community_)
++ **Assets**
+  - Kenney assets: [Survival Kit](https://www.kenney.nl/assets/survival-kit), [Animated Characters](https://www.kenney.nl/assets/animated-characters)
+  - N-Hance assets: [Animals](https://assetstore.unity.com/packages/3d/characters/animals/stylized-wild-animals-pack-159154)
+  - Lmhpoly assets: [Low Poly Pack](https://www.lmhpoly.com/unity-game-assets)
+- Звуковые эффекты: [Zapsplat](https://www.zapsplat.com/?s=bear+&post_type=music&sound-effect-category-id=), [OpenGameArt](https://opengameart.org)
+
+#### ПРОГРЕСС ИГРЫ
 
 Наш персонаж просыпается в лесу.
 Не зная, где и в какое время он находится и отправляется исследовать окрестности.
@@ -15,17 +25,7 @@
 Персонаж удастся выжить и собрать необходимые материалы — достигнет конца игры.
 Если в диком лесу ему не удастся выжить, игра начнётся заново.
 
-### Требования к среде разработки:
-
-- **Unity Engine**: [2022.3 (LTS)](https://docs.unity3d.com/2022.3/Documentation/Manual)
-- **Microsoft Visual Studio**: 2022 (_Community_)
-+ **Assets**
-  - Kenney assets: [Survival Kit](https://www.kenney.nl/assets/survival-kit), [Animated Characters](https://www.kenney.nl/assets/animated-characters)
-  - N-Hance assets: [Animals](https://assetstore.unity.com/packages/3d/characters/animals/stylized-wild-animals-pack-159154)
-  - Lmhpoly assets: [Low Poly Pack](https://www.lmhpoly.com/unity-game-assets)
-- Звуковые эффекты: [Zapsplat](https://www.zapsplat.com/?s=bear+&post_type=music&sound-effect-category-id=), [OpenGameArt](https://opengameart.org)
-
-### Элементы управления:
+#### Элементы управления:
  Перемещение: клавиши W, A, S, D или стрелки. <br>
  Прыжок: пробел. <br> 
  Открытие/закрытие инвентаря: клавиша "TAB". <br>
