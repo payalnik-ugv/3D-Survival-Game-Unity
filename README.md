@@ -34,32 +34,34 @@
 
 #### Главное меню
 
-![Jpg](Screenshots/Images/main_menu.jpg)
+<p align="center">
+<img align="center" alt="PNG" src="https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Images/main_menu.jpg?raw=true" />
+</p>
 
 #### Система учета запасов:	
 
-![Gif](Screenshots/Gifs/inventory-and-pickup.gif)
+![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/inventory-and-pickup.gif)
 
 #### Собрать лес:
 
-![Gif](Screenshots/Gifs/gathering-woods.gif)
+![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/gathering-woods.gif)
 
 #### Собрать камни:
 
-![Gif](Screenshots/Gifs/gathering-stones.gif)
+![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/gathering-stones.gif)
 
 #### Система крафта:
 
-![Gif](Screenshots/Gifs/crafting.gif)
+![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/crafting.gif)
 
 #### Система стройки:
 
-![Gif](Screenshots/Gifs/building-and-sleep.gif)
+![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/building-and-sleep.gif)
 
 #### Система атаки:
 
-![Gif](Screenshots/Gifs/attacking.gif)
+![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/attacking.gif)
 
 #### Подводный эффект:
 
-![Gif](Screenshots/Gifs/underwater-effect.gif)
+![Gif](https://github.com/sevketbinali/3D-Survival-Game-Unity/blob/master/Screenshots/Gifs/underwater-effect.gif)
