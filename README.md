@@ -1,11 +1,11 @@
 # 3D-игра на выживание
-Это 3D-игра на выживание с открытым миром, созданная на движке Unity-3D с видом от первого лица в стиле Low Poly.
-Имеет в себе механики из игр в стиле Survival.
+Это 3D-игра на выживание с открытым миром, созданная на движке Unity-3D с видом от первого лица в стиле Survival.
 
 ### Требования к среде разработки:
 
 - **Unity Engine**: [2022.3 (LTS)](https://docs.unity3d.com/2022.3/Documentation/Manual)
 - **Microsoft Visual Studio**: 2022 (_Community_)
+- **Program Language**: C#
 + **Assets**
   - Kenney assets: [Survival Kit](https://www.kenney.nl/assets/survival-kit), [Animated Characters](https://www.kenney.nl/assets/animated-characters)
   - N-Hance assets: [Animals](https://assetstore.unity.com/packages/3d/characters/animals/stylized-wild-animals-pack-159154)
