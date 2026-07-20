@@ -7,9 +7,10 @@
 
 - **Unity Engine**: [2022.3 (LTS)](https://docs.unity3d.com/2022.3/Documentation/Manual)
 - **Microsoft Visual Studio**: 2022 (_Community_)
-- Lmhpoly assets (набор низкополигональных моделей): [Low Poly Pack](https://www.lmhpoly.com/unity-game-assets)
-- N-Hance assets: [Животные](https://assetstore.unity.com/packages/3d/characters/animals/stylized-wild-animals-pack-159154)
-- Ресурсы Кенни: [Набор для выживания](https://www.kenney.nl/assets/survival-kit), [Анимированные персонажи](https://www.kenney.nl/assets/animated-characters)
++ **Assets**
+  - Kenney assets: [Survival Kit](https://www.kenney.nl/assets/survival-kit), [Animated Characters](https://www.kenney.nl/assets/animated-characters)
+  - N-Hance assets: [Animals](https://assetstore.unity.com/packages/3d/characters/animals/stylized-wild-animals-pack-159154)
+  - Lmhpoly assets: [Low Poly Pack](https://www.lmhpoly.com/unity-game-assets)
 - Звуковые эффекты: [Zapsplat](https://www.zapsplat.com/?s=bear+&post_type=music&sound-effect-category-id=), [OpenGameArt](https://opengameart.org)
 
 ### Элементы управления:
